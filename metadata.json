@@ -1,0 +1,8 @@
+{
+  "name": "LingoMate - English Tutor",
+  "description": "A conversational English learning companion designed for Hindi and Kannada speakers.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
